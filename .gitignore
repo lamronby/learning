@@ -1,16 +1,5 @@
-*.class
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
 # Archive files
 *.zip
-
-# Node
-node_modules/
-
+*.tar
+*.tar.gz
+*.tar.bz
