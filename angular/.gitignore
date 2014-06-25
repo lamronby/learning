@@ -1,0 +1,8 @@
+# Archive files
+*.zip
+
+# Angular source directories
+angular-*/
+
+# Angular book
+angularjs-book/
