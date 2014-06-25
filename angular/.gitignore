@@ -4,5 +4,9 @@
 # Angular source directories
 angular-*/
 
+# Angular source JS
+angular.js
+angular.min.js
+
 # Angular book
 angularjs-book/
