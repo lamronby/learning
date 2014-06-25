@@ -1,0 +1,298 @@
+135608		ThunderRT6TextBox
+135608		ThunderRT6TextBox
+135608		ThunderRT6TextBox
+135608		ThunderRT6TextBox
+135612		ThunderRT6ComboBox
+135612		ThunderRT6ComboBox
+135612		ThunderRT6ComboBox
+135612		ThunderRT6ComboBox
+135612		ThunderRT6ComboBox
+135616		ThunderRT6ComboBox
+135616		ThunderRT6ComboBox
+135616		ThunderRT6ComboBox
+135616		ThunderRT6ComboBox
+135616		ThunderRT6ComboBox
+135620		ThunderRT6ComboBox
+135620		ThunderRT6ComboBox
+135620		ThunderRT6ComboBox
+135620		ThunderRT6ComboBox
+135620		ThunderRT6ComboBox
+135622		ThunderRT6TextBox
+135622		ThunderRT6TextBox
+135622		ThunderRT6TextBox
+135622		ThunderRT6TextBox
+135622		ThunderRT6TextBox
+135626		ThunderRT6ComboBox
+135626		ThunderRT6ComboBox
+135626		ThunderRT6ComboBox
+135626		ThunderRT6ComboBox
+135626		ThunderRT6ComboBox
+135628		ThunderRT6TextBox
+135628		ThunderRT6TextBox
+135628		ThunderRT6TextBox
+135628		ThunderRT6TextBox
+135628		ThunderRT6TextBox
+135630		ThunderRT6TextBox
+135630		ThunderRT6TextBox
+135630		ThunderRT6TextBox
+135630		ThunderRT6TextBox
+135630		ThunderRT6TextBox
+135632		ThunderRT6TextBox
+135632		ThunderRT6TextBox
+135632		ThunderRT6TextBox
+135632		ThunderRT6TextBox
+135632		ThunderRT6TextBox
+135634		ThunderRT6TextBox
+135634		ThunderRT6TextBox
+135634		ThunderRT6TextBox
+135634		ThunderRT6TextBox
+135634		ThunderRT6TextBox
+135636		ThunderRT6TextBox
+135636		ThunderRT6TextBox
+135636		ThunderRT6TextBox
+135636		ThunderRT6TextBox
+135636		ThunderRT6TextBox
+135638		ThunderRT6TextBox
+135638		ThunderRT6TextBox
+135638		ThunderRT6TextBox
+135638		ThunderRT6TextBox
+135638		ThunderRT6TextBox
+135640		ThunderRT6ComboBox
+135640		ThunderRT6ComboBox
+135640		ThunderRT6ComboBox
+135640		ThunderRT6ComboBox
+135640		ThunderRT6ComboBox
+135644		ThunderRT6TextBox
+135644		ThunderRT6TextBox
+135644		ThunderRT6TextBox
+135644		ThunderRT6TextBox
+135644		ThunderRT6TextBox
+135646		ThunderRT6TextBox
+135646		ThunderRT6TextBox
+135646		ThunderRT6TextBox
+135646		ThunderRT6TextBox
+135646		ThunderRT6TextBox
+135648		ThunderRT6TextBox
+135648		ThunderRT6TextBox
+135648		ThunderRT6TextBox
+135648		ThunderRT6TextBox
+135648		ThunderRT6TextBox
+135650	Delete	ThunderRT6CommandButton
+135650	Delete	ThunderRT6CommandButton
+135650	Delete	ThunderRT6CommandButton
+135650	Delete	ThunderRT6CommandButton
+135650	Delete	ThunderRT6CommandButton
+135652		ThunderRT6PictureBoxDC
+135652		ThunderRT6PictureBoxDC
+135652		ThunderRT6PictureBoxDC
+135652		ThunderRT6PictureBoxDC
+135652		ThunderRT6PictureBoxDC
+135654	Import	ThunderRT6CommandButton
+135654	Import	ThunderRT6CommandButton
+135654	Import	ThunderRT6CommandButton
+135654	Import	ThunderRT6CommandButton
+135654	Import	ThunderRT6CommandButton
+135656	...	ThunderRT6CommandButton
+135656	...	ThunderRT6CommandButton
+135656	...	ThunderRT6CommandButton
+135656	...	ThunderRT6CommandButton
+135656	...	ThunderRT6CommandButton
+135658	Capture	ThunderRT6CommandButton
+135658	Capture	ThunderRT6CommandButton
+135658	Capture	ThunderRT6CommandButton
+135658	Capture	ThunderRT6CommandButton
+135658	Capture	ThunderRT6CommandButton
+135660	Export	ThunderRT6CommandButton
+135660	Export	ThunderRT6CommandButton
+135660	Export	ThunderRT6CommandButton
+135660	Export	ThunderRT6CommandButton
+135660	Export	ThunderRT6CommandButton
+135664		Edit
+135664		Edit
+135664		Edit
+135664		Edit
+135664		Edit
+135664		Edit
+135666		Edit
+135666		Edit
+135666		Edit
+135666		Edit
+135666		Edit
+135666		Edit
+135668		ThunderRT6ComboBox
+135668		ThunderRT6ComboBox
+135668		ThunderRT6ComboBox
+135668		ThunderRT6ComboBox
+135668		ThunderRT6ComboBox
+135670		ThunderRT6ComboBox
+135670		ThunderRT6ComboBox
+135670		ThunderRT6ComboBox
+135670		ThunderRT6ComboBox
+135670		ThunderRT6ComboBox
+135676		Edit
+135676		Edit
+135676		Edit
+135676		Edit
+135676		Edit
+135676		Edit
+135678		Edit
+135678		Edit
+135678		Edit
+135678		Edit
+135678		Edit
+135678		Edit
+135682		ThunderRT6ComboBox
+135682		ThunderRT6ComboBox
+135682		ThunderRT6ComboBox
+135682		ThunderRT6ComboBox
+135682		ThunderRT6ComboBox
+135684		Edit
+135684		Edit
+135684		Edit
+135684		Edit
+135684		Edit
+135684		Edit
+135688		Edit
+135688		Edit
+135688		Edit
+135688		Edit
+135688		Edit
+135688		Edit
+135690		ThunderRT6ComboBox
+135690		ThunderRT6ComboBox
+135690		ThunderRT6ComboBox
+135690		ThunderRT6ComboBox
+135690		ThunderRT6ComboBox
+135692		ThunderRT6ComboBox
+135692		ThunderRT6ComboBox
+135692		ThunderRT6ComboBox
+135692		ThunderRT6ComboBox
+135692		ThunderRT6ComboBox
+135748		ThunderRT6Timer
+201290		DTPicker20WndClass
+201290		DTPicker20WndClass
+201290		DTPicker20WndClass
+201290		DTPicker20WndClass
+201294		ThunderRT6TextBox
+201294		ThunderRT6TextBox
+201294		ThunderRT6TextBox
+201294		ThunderRT6TextBox
+201294		ThunderRT6TextBox
+201296	fraCustom	ThunderRT6Frame
+201296	fraCustom	ThunderRT6Frame
+201296	fraCustom	ThunderRT6Frame
+201300		ThunderRT6ComboBox
+201300		ThunderRT6ComboBox
+201300		ThunderRT6ComboBox
+201300		ThunderRT6ComboBox
+201302	175	ThunderRT6TextBox
+201302	175	ThunderRT6TextBox
+201302	175	ThunderRT6TextBox
+201302	175	ThunderRT6TextBox
+201304	100	ThunderRT6TextBox
+201304	100	ThunderRT6TextBox
+201304	100	ThunderRT6TextBox
+201304	100	ThunderRT6TextBox
+201306	Study Date: 9/23/2008 2:21:17 PM	ThunderRT6Frame
+201306	Study Date: 9/23/2008 2:21:17 PM	ThunderRT6Frame
+201306	Study Date: 9/23/2008 2:21:17 PM	ThunderRT6Frame
+201308		ThunderRT6CheckBox
+201308		ThunderRT6CheckBox
+201308		ThunderRT6CheckBox
+201308		ThunderRT6CheckBox
+201308		ThunderRT6CheckBox
+201310		ThunderRT6TextBox
+201310		ThunderRT6TextBox
+201310		ThunderRT6TextBox
+201310		ThunderRT6TextBox
+201310		ThunderRT6TextBox
+201312		SSScrollWndClass
+201312		SSScrollWndClass
+201312		SSScrollWndClass
+201312		SSScrollWndClass
+266790		SSScrollWndClass
+266790		SSScrollWndClass
+266790		SSScrollWndClass
+266790		SSScrollWndClass
+397870		ThunderRT6Frame
+397870		ThunderRT6Frame
+397870		ThunderRT6Frame
+397870		ThunderRT6Frame
+463270		ThunderRT6TextBox
+463270		ThunderRT6TextBox
+463270		ThunderRT6TextBox
+463270		ThunderRT6TextBox
+594242	100	ThunderRT6TextBox
+594242	100	ThunderRT6TextBox
+594242	100	ThunderRT6TextBox
+594242	100	ThunderRT6TextBox
+594244		ThunderRT6ComboBox
+594244		ThunderRT6ComboBox
+594244		ThunderRT6ComboBox
+594244		ThunderRT6ComboBox
+594328	100	ThunderRT6TextBox
+594328	100	ThunderRT6TextBox
+594328	100	ThunderRT6TextBox
+594328	100	ThunderRT6TextBox
+594344		ThunderRT6TextBox
+594344		ThunderRT6TextBox
+594344		ThunderRT6TextBox
+594344		ThunderRT6TextBox
+790810		Edit
+790810		Edit
+790810		Edit
+790810		Edit
+790810		Edit
+790810		Edit
+790812		ThunderRT6ComboBox
+790812		ThunderRT6ComboBox
+790812		ThunderRT6ComboBox
+790812		ThunderRT6ComboBox
+790812		ThunderRT6ComboBox
+856372	175	ThunderRT6TextBox
+856372	175	ThunderRT6TextBox
+856372	175	ThunderRT6TextBox
+856372	175	ThunderRT6TextBox
+921976		ThunderRT6ComboBox
+921976		ThunderRT6ComboBox
+921976		ThunderRT6ComboBox
+921976		ThunderRT6ComboBox
+921976		ThunderRT6ComboBox
+921984		ThunderRT6FormDC
+921984		ThunderRT6FormDC
+1183848		StatusBar20WndClass
+1184058	fraImport	ThunderRT6Frame
+1184058	fraImport	ThunderRT6Frame
+1184058	fraImport	ThunderRT6Frame
+1249498		ThunderRT6ComboBox
+1249498		ThunderRT6ComboBox
+1249498		ThunderRT6ComboBox
+1249498		ThunderRT6ComboBox
+1249498		ThunderRT6ComboBox
+1314926		Edit
+1314926		Edit
+1314926		Edit
+1314926		Edit
+1314926		Edit
+1314926		Edit
+1446110		ThunderRT6ComboBox
+1446110		ThunderRT6ComboBox
+1446110		ThunderRT6ComboBox
+1446110		ThunderRT6ComboBox
+1446110		ThunderRT6ComboBox
+2035618		ThunderRT6ComboBox
+2035618		ThunderRT6ComboBox
+2035618		ThunderRT6ComboBox
+2035618		ThunderRT6ComboBox
+2035618		ThunderRT6ComboBox
+2363008		Edit
+2363008		Edit
+2363008		Edit
+2363008		Edit
+2363008		Edit
+2363008		Edit
+2428570		TabStrip20WndClass
+2428570		TabStrip20WndClass
+2428570		TabStrip20WndClass
+2428570		TabStrip20WndClass
+3542880		MDIClient

@@ -1,0 +1,67 @@
+main_window handle is 656510, class_name=WindowsForms10.Window.8.app.0.378734a
+0	656510	nSight Central	WindowsForms10.Window.8.app.0.378734a
+656510	656498		WindowsForms10.Window.8.app.0.378734a
+656510	2363284		WindowsForms10.Window.8.app.0.378734a
+656510	3999788		WindowsForms10.Window.8.app.0.378734a
+656510	3214798		WindowsForms10.Window.8.app.0.378734a
+656510	4853334		WindowsForms10.Window.8.app.0.378734a
+656510	2166562		WindowsForms10.Window.8.app.0.378734a
+656510	1576314		WindowsForms10.Window.8.app.0.378734a
+656510	592742	nSpire Health Online	WindowsForms10.BUTTON.app.0.378734a
+656510	787546	nSpired Shopping	WindowsForms10.BUTTON.app.0.378734a
+656510	527200	Corporate Catalog	WindowsForms10.BUTTON.app.0.378734a
+656510	328738	nSpire University	WindowsForms10.BUTTON.app.0.378734a
+656510	3607768		WindowsForms10.Window.8.app.0.378734a
+656510	14551098	E&xit	WindowsForms10.BUTTON.app.0.378734a
+656510	658700	Change &Database	WindowsForms10.BUTTON.app.0.378734a
+656510	2034896	&Configure	WindowsForms10.BUTTON.app.0.378734a
+656510	2360942		WindowsForms10.Window.8.app.0.378734a
+656510	11406352		WindowsForms10.Window.8.app.0.378734a
+656510	2101022		WindowsForms10.Window.8.app.0.378734a
+656510	9046006		WindowsForms10.Window.8.app.0.378734a
+656510	9374834		WindowsForms10.SysTreeView32.app.0.378734a
+656510	4261718		WindowsForms10.Window.8.app.0.378734a
+656510	5770706		WindowsForms10.Window.8.app.0.378734a
+656510	4460110		WindowsForms10.Window.8.app.0.378734a
+656510	7145168		WindowsForms10.Window.8.app.0.378734a
+656510	5705324		WindowsForms10.Window.8.app.0.378734a
+656510	3147186		WindowsForms10.EDIT.app.0.378734a
+656510	6426172	Height:	WindowsForms10.STATIC.app.0.378734a
+656510	5244812		WindowsForms10.EDIT.app.0.378734a
+656510	722002	Weight:	WindowsForms10.STATIC.app.0.378734a
+656510	590926	Patient ID:	WindowsForms10.STATIC.app.0.378734a
+656510	26806594	Patient Data	WindowsForms10.STATIC.app.0.378734a
+656510	590934	12345678	WindowsForms10.STATIC.app.0.378734a
+656510	789086	First Name:	WindowsForms10.STATIC.app.0.378734a
+656510	3870706	John	WindowsForms10.STATIC.app.0.378734a
+656510	7014954	Age:	WindowsForms10.STATIC.app.0.378734a
+656510	6883310	Last Name:	WindowsForms10.STATIC.app.0.378734a
+656510	7473834	30	WindowsForms10.STATIC.app.0.378734a
+656510	1247242	Doe	WindowsForms10.STATIC.app.0.378734a
+656510	7474650	1/1/1980	WindowsForms10.STATIC.app.0.378734a
+656510	5901396	Visit Data:	WindowsForms10.STATIC.app.0.378734a
+656510	590932	Race:	WindowsForms10.STATIC.app.0.378734a
+656510	656458	Gender:	WindowsForms10.STATIC.app.0.378734a
+656510	721986	White	WindowsForms10.STATIC.app.0.378734a
+656510	394196	Female	WindowsForms10.STATIC.app.0.378734a
+656510	5441302	Birth Date:	WindowsForms10.STATIC.app.0.378734a
+656510	5636592	Complete Visit	WindowsForms10.BUTTON.app.0.378734a
+656510	5770938	in	WindowsForms10.STATIC.app.0.378734a
+656510	3606660	lbs	WindowsForms10.STATIC.app.0.378734a
+656510	10488722		WindowsForms10.Window.8.app.0.378734a
+656510	722000		WindowsForms10.Window.8.app.0.378734a
+656510	1051316	A Report Template has not been configured. To view patient visit report data, select Configure, then go to the General tab to configure the report template.	WindowsForms10.EDIT.app.0.378734a
+656510	656406		WindowsForms10.Window.8.app.0.378734a
+656510	5246806		WindowsForms10.Window.8.app.0.378734a
+656510	328744	Patient Information	WindowsForms10.BUTTON.app.0.378734a
+656510	328742	Forced Vital Capacity	WindowsForms10.BUTTON.app.0.378734a
+656510	4327488	Lung Volumes (He)	WindowsForms10.BUTTON.app.0.378734a
+656510	3735772	Lung Volumes (N2)	WindowsForms10.BUTTON.app.0.378734a
+656510	6752292	Diffusion Capacity	WindowsForms10.BUTTON.app.0.378734a
+656510	3473922	Plethysmography	WindowsForms10.BUTTON.app.0.378734a
+656510	1051334	PImax/PEmax (MIP/MEP)	WindowsForms10.BUTTON.app.0.378734a
+656510	6098268	Maximum Voluntary Ventilation	WindowsForms10.BUTTON.app.0.378734a
+656510	722960	Extended Reports	WindowsForms10.BUTTON.app.0.378734a
+656510	2886848	Database Utilities	WindowsForms10.BUTTON.app.0.378734a
+child_window: #<WindowsGui::Window:0x3a0d400>, class_name=WindowsForms10.BUTTON.app.0.378734a
+

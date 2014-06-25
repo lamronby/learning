@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{325B8569-0C7C-4A6A-8AF8-89C3B6BC9E74}") = "RubyTest", "RubyTest\RubyTest.stproj", "{9FB3456C-3B04-49F1-864C-4EE4731649FB}"
+EndProject
+Project("{325B8569-0C7C-4A6A-8AF8-89C3B6BC9E74}") = "TimmonParser", "TimmonParser\TimmonParser.stproj", "{27A337EE-615D-4B93-8778-2D36DA9A212A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FB3456C-3B04-49F1-864C-4EE4731649FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB3456C-3B04-49F1-864C-4EE4731649FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB3456C-3B04-49F1-864C-4EE4731649FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB3456C-3B04-49F1-864C-4EE4731649FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A337EE-615D-4B93-8778-2D36DA9A212A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A337EE-615D-4B93-8778-2D36DA9A212A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A337EE-615D-4B93-8778-2D36DA9A212A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A337EE-615D-4B93-8778-2D36DA9A212A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

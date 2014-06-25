@@ -1,0 +1,40 @@
+8
+
+dir
+2
+svn://localhost/code/decisionator/trunk/test
+svn://localhost
+
+
+
+2008-02-21T06:07:33.688000Z
+2
+cjansen
+
+
+svn:special svn:externals svn:needs-lock
+
+testdecision.rb
+file
+3
+
+
+
+2008-02-23T05:39:53.813000Z
+26658bb0849f0ad8ba881cec6e5537e9
+2008-02-25T06:12:05.664600Z
+3
+cjansen
+
+test_solution.rb
+file
+3
+
+
+
+2008-02-23T06:08:05.792000Z
+f0aa1372b8ee8d9ee17cb2074d924851
+2008-02-25T06:12:05.664600Z
+3
+cjansen
+

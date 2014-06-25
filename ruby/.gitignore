@@ -1,0 +1,15 @@
+
+# WCRS source
+WCRS/
+
+# Database files
+*.db
+
+# XML export files
+export*.xml
+
+# Task Coach files
+*.tsk
+
+# idgtr docs
+idgtr/doc/

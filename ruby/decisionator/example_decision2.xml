@@ -1,0 +1,17 @@
+<decision min_rating="1" max_rating="5" graphic="star">
+    <problem>Who should I vote for for president?</problem>
+    <solution id="1" name="Hillary Clinton">
+        <factor type="con" rating="3">more fat</factor>
+        <factor type="pro" rating="2">more protein</factor>
+    </solution>
+    <solution id="2" name="Barak Obama">
+        <factor type="con" rating="5">less filling</factor>
+        <factor type="pro" rating="1">lower fat</factor>
+        <factor type="pro" rating="3">more options</factor>
+    </solution>
+    <solution id="2" name="John McCain">
+        <factor type="con" rating="5">less filling</factor>
+        <factor type="pro" rating="1">lower fat</factor>
+        <factor type="pro" rating="3">more options</factor>
+    </solution>
+</decision>

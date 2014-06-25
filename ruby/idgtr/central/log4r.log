@@ -1,0 +1,71 @@
+2008-12-12 14:31:29 DEBUG (Central) Connecting to db window detected...
+2008-12-12 14:31:29 DEBUG (Central) Connecting to db window is closed...
+2008-12-12 14:31:35 DEBUG (Central) Main window: 464864, is a window: false
+2008-12-12 14:33:21 DEBUG (Central) Connecting to db window detected...
+2008-12-12 14:33:22 DEBUG (Central) Connecting to db window is closed...
+2008-12-12 14:33:27 DEBUG (Central) Main window: 3408758, is a window: true
+2008-12-12 14:33:27 DEBUG (Window) id E_xit is frozen?: false
+2008-12-12 14:33:27 DEBUG (Window) Did not find by title or class, recursing children
+2008-12-12 14:33:27 DEBUG (ChildEnumerator) Searching for child E_xit in children of handle 3408758
+2008-12-12 14:33:27 DEBUG (ChildEnumerator) Child 1181318
+2008-12-12 14:33:27 DEBUG (ChildEnumerator)    No match, text: , class: WindowsForms10.Window.8.app.0.378734a
+2008-12-12 14:33:27 DEBUG (ChildEnumerator) Child 1902716
+2008-12-12 14:33:28 DEBUG (ChildEnumerator)    No match, text: , class: WindowsForms10.Window.8.app.0.378734a
+2008-12-12 14:33:28 DEBUG (ChildEnumerator) Child 595938
+2008-12-12 14:33:28 DEBUG (ChildEnumerator)    No match, text: , class: WindowsForms10.Window.8.app.0.378734a
+2008-12-12 14:33:28 DEBUG (ChildEnumerator) Child 4197598
+2008-12-12 14:33:28 DEBUG (ChildEnumerator)    No match, text: , class: WindowsForms10.Window.8.app.0.378734a
+2008-12-12 14:33:28 DEBUG (ChildEnumerator) Child 3804964
+2008-12-12 14:33:28 DEBUG (ChildEnumerator)    No match, text: , class: WindowsForms10.Window.8.app.0.378734a
+2008-12-12 14:33:28 DEBUG (ChildEnumerator) Child 858054
+2008-12-12 14:33:28 DEBUG (ChildEnumerator)    No match, text: , class: WindowsForms10.Window.8.app.0.378734a
+2008-12-12 14:33:28 DEBUG (ChildEnumerator) Child 727008
+2008-12-12 14:33:28 DEBUG (ChildEnumerator)    No match, text: , class: WindowsForms10.Window.8.app.0.378734a
+2008-12-12 14:33:28 DEBUG (ChildEnumerator) Child 1709912
+2008-12-12 14:33:28 DEBUG (ChildEnumerator)    No match, text: nSpire Health Online, class: WindowsForms10.BUTTON.app.0.378734a
+2008-12-12 14:33:28 DEBUG (ChildEnumerator) Child 1115786
+2008-12-12 14:33:28 DEBUG (ChildEnumerator)    No match, text: nSpired Shopping, class: WindowsForms10.BUTTON.app.0.378734a
+2008-12-12 14:33:28 DEBUG (ChildEnumerator) Child 2100916
+2008-12-12 14:33:28 DEBUG (ChildEnumerator)    No match, text: Corporate Catalog, class: WindowsForms10.BUTTON.app.0.378734a
+2008-12-12 14:33:28 DEBUG (ChildEnumerator) Child 2495888
+2008-12-12 14:33:28 DEBUG (ChildEnumerator)    No match, text: nSpire University, class: WindowsForms10.BUTTON.app.0.378734a
+2008-12-12 14:33:28 DEBUG (ChildEnumerator) Child 726884
+2008-12-12 14:33:28 DEBUG (ChildEnumerator)    No match, text: , class: WindowsForms10.Window.8.app.0.378734a
+2008-12-12 14:33:28 DEBUG (ChildEnumerator) Child 1315430
+2008-12-12 14:33:28 DEBUG (ChildEnumerator)    MATCHED on text: E&xit
+2008-12-12 14:33:28 DEBUG (ChildEnumerator) Enumeration complete, matching_child=1315430
+2008-12-12 14:33:28 DEBUG (Window) Found child 1315430 for id E_xit
+2008-12-12 14:33:30 DEBUG (Central) Connecting to db window detected...
+2008-12-12 14:33:30 DEBUG (Central) Connecting to db window is closed...
+2008-12-12 14:33:36 DEBUG (Central) Main window: 1246854, is a window: true
+2008-12-12 14:33:36 DEBUG (Window) id E_xit is frozen?: false
+2008-12-12 14:33:36 DEBUG (Window) Did not find by title or class, recursing children
+2008-12-12 14:33:36 DEBUG (ChildEnumerator) Searching for child E_xit in children of handle 1246854
+2008-12-12 14:33:36 DEBUG (ChildEnumerator) Child 792420
+2008-12-12 14:33:36 DEBUG (ChildEnumerator)    No match, text: , class: WindowsForms10.Window.8.app.0.378734a
+2008-12-12 14:33:36 DEBUG (ChildEnumerator) Child 1775556
+2008-12-12 14:33:36 DEBUG (ChildEnumerator)    No match, text: , class: WindowsForms10.Window.8.app.0.378734a
+2008-12-12 14:33:36 DEBUG (ChildEnumerator) Child 857878
+2008-12-12 14:33:36 DEBUG (ChildEnumerator)    No match, text: , class: WindowsForms10.Window.8.app.0.378734a
+2008-12-12 14:33:36 DEBUG (ChildEnumerator) Child 1380966
+2008-12-12 14:33:36 DEBUG (ChildEnumerator)    No match, text: , class: WindowsForms10.Window.8.app.0.378734a
+2008-12-12 14:33:36 DEBUG (ChildEnumerator) Child 923590
+2008-12-12 14:33:36 DEBUG (ChildEnumerator)    No match, text: , class: WindowsForms10.Window.8.app.0.378734a
+2008-12-12 14:33:36 DEBUG (ChildEnumerator) Child 2561424
+2008-12-12 14:33:36 DEBUG (ChildEnumerator)    No match, text: , class: WindowsForms10.Window.8.app.0.378734a
+2008-12-12 14:33:36 DEBUG (ChildEnumerator) Child 2166452
+2008-12-12 14:33:36 DEBUG (ChildEnumerator)    No match, text: , class: WindowsForms10.Window.8.app.0.378734a
+2008-12-12 14:33:36 DEBUG (ChildEnumerator) Child 6686914
+2008-12-12 14:33:36 DEBUG (ChildEnumerator)    No match, text: nSpire Health Online, class: WindowsForms10.BUTTON.app.0.378734a
+2008-12-12 14:33:36 DEBUG (ChildEnumerator) Child 3346024
+2008-12-12 14:33:36 DEBUG (ChildEnumerator)    No match, text: nSpired Shopping, class: WindowsForms10.BUTTON.app.0.378734a
+2008-12-12 14:33:36 DEBUG (ChildEnumerator) Child 2360326
+2008-12-12 14:33:36 DEBUG (ChildEnumerator)    No match, text: Corporate Catalog, class: WindowsForms10.BUTTON.app.0.378734a
+2008-12-12 14:33:36 DEBUG (ChildEnumerator) Child 1185646
+2008-12-12 14:33:36 DEBUG (ChildEnumerator)    No match, text: nSpire University, class: WindowsForms10.BUTTON.app.0.378734a
+2008-12-12 14:33:36 DEBUG (ChildEnumerator) Child 1181322
+2008-12-12 14:33:36 DEBUG (ChildEnumerator)    No match, text: , class: WindowsForms10.Window.8.app.0.378734a
+2008-12-12 14:33:36 DEBUG (ChildEnumerator) Child 1775448
+2008-12-12 14:33:36 DEBUG (ChildEnumerator)    MATCHED on text: E&xit
+2008-12-12 14:33:36 DEBUG (ChildEnumerator) Enumeration complete, matching_child=1775448
+2008-12-12 14:33:36 DEBUG (Window) Found child 1775448 for id E_xit

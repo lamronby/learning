@@ -1,0 +1,27 @@
+<!-- the config file used by xmlconfig.rb -->
+<log4r_config>
+  <pre_config>
+    <global level="DEBUG"/>
+    <parameters>
+        <defaultpattern>%d [%5l] (%12c) - %m</defaultpattern>
+        <timepattern>%d %-5l (%c) %m</timepattern>
+    </parameters>
+  </pre_config>
+
+  <!-- outputters -->
+  <outputter type="FileOutputter" name="logfile" 
+             filename="#{logpath}/log4r.log"
+             trunc="false">
+     <formatter type="Log4r::PatternFormatter"
+                pattern="#{timepattern}" />
+  </outputter>
+  <outputter type="StdoutOutputter" name="console">
+    <formatter type="Log4r::PatternFormatter"
+               pattern="#{timepattern}" />
+  </outputter>
+
+  <!-- loggers -->
+  <logger name="WindowsGui" level="OFF" outputters="console"/>
+  <logger name="Central" level="DEBUG" outputters="console"/>
+
+</log4r_config> 
