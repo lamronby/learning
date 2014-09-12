@@ -8,6 +8,7 @@ using Autofac;
 using Autofac.Integration.Mvc;
 using Moq;
 using SportsStore.Domain.Abstract;
+using SportsStore.Domain.Concrete;
 using SportsStore.Domain.Entities;
 
 namespace SportsStore.WebUI.Infrastructure
@@ -30,15 +31,16 @@ namespace SportsStore.WebUI.Infrastructure
 
         private void AddBindings(ContainerBuilder builder)
         {
-            var mock = new Mock<IProductsRepository>();
-            mock.Setup(m => m.Products).Returns(new List<Product>
-            {
-                new Product {Name = "Football", Price = 25},
-                new Product {Name = "Surf board", Price = 179},
-                new Product {Name = "Running shoes", Price = 95}
-            }.AsQueryable());
+            //var mock = new Mock<IProductRepository>();
+            //mock.Setup(m => m.Products).Returns(new List<Product>
+            //{
+            //    new Product {Name = "Football", Price = 25},
+            //    new Product {Name = "Surf board", Price = 179},
+            //    new Product {Name = "Running shoes", Price = 95}
+            //}.AsQueryable());
 
-            builder.RegisterInstance(mock.Object).As<IProductsRepository>();
+            //builder.RegisterInstance(mock.Object).As<IProductRepository>();
+            builder.RegisterType<EFProductRepository>().As<IProductRepository>();
 
             // register controllers
             builder.RegisterControllers(Assembly.GetExecutingAssembly());

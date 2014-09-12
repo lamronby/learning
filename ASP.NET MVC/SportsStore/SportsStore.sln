@@ -11,6 +11,7 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportsStore.UnitTests", "SportsStore.UnitTests\SportsStore.UnitTests.csproj", "{837D2F09-C09F-4292-9946-C22324DA6E7B}"
 	ProjectSection(ProjectDependencies) = postProject
 		{C24EF31F-058F-4F7F-A156-408FC7ED911E} = {C24EF31F-058F-4F7F-A156-408FC7ED911E}
+		{8E69FA82-0D00-45B1-8C2E-CAC0502E83F1} = {8E69FA82-0D00-45B1-8C2E-CAC0502E83F1}
 	EndProjectSection
 EndProject
 Global
